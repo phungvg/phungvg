@@ -1,23 +1,32 @@
-<!-- 🎉 Welcome Animation -->
-<h2 align="center">Insert complete → <code>Welcome to the schema!</code></h2>
+<!--  Welcome  -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0CDAF7&background=9CEBFD00&center=true&width=900&height=60&lines=Insert+complete+→+Welcome+to+the+schema+%F0%9F%92%BE" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUyZ3J1a2NnYW45bngxd3B0aG04ZmRudWVjY3pyMnZmMHlqNTJxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAllPPhAuqKM90z26Q/giphy.gif" alt="WELCOME" width="600" height="300">
 </div>
 
-<!-- 👋 Intro Heading -->
 <h1 align="center">
-  👋 Hey there, I'm <span style="color:#ffc107">Phung Vuong</span> — but I go by Victoria!
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0CDAF7&background=9CEBFD00&center=true&width=900&height=60&lines=Hi%2C+I'm+Phung+Vuong+and+I+go+by+Victoria!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </h1>
 
-<!-- 💬 Quick Intro -->
+<!-- Quick Intro -->
 
 <h3 align="center">
   Exploring new roles in data science & engineering — let’s link up!
 </h3>
 
 
-<h4 align="center">📫 CONTACTS</h4>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=500&duration=2000&pause=1000&color=F7F7F7&background=9CEBFD00&center=true&repeat=false&width=500&height=35&lines=Reach+me+at+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</h3> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phung-vuong/">
@@ -73,7 +82,7 @@ class Victoria:
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-circle&logo=gitlab)
 
 - 💻 Database:
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=blue)
 
 
 
