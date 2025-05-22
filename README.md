@@ -2,7 +2,7 @@
 <h2 align="center">Insert complete → <code>Welcome to the schema!</code></h2>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkYnh4aHY5a2Nkb2JkYWc5MjJvbTAxNHlmcTgxeTJzOHZvbndpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="WELCOME" width="600" height="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUyZ3J1a2NnYW45bngxd3B0aG04ZmRudWVjY3pyMnZmMHlqNTJxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hAllPPhAuqKM90z26Q/giphy.gif" alt="WELCOME" width="600" height="300">
 </div>
 
 <!-- 👋 Intro Heading -->
