@@ -61,6 +61,9 @@ class Victoria:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-circle&logo=microsoft-excel&logoColor=white)
 
+- 💻 Database:
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=blue)
+
 - 🧪 ML & Data Science:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-circle&logo=Tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?style=flat-circle&logo=scikit-learn&logoColor=white)
@@ -80,9 +83,6 @@ class Victoria:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-circle&logo=gitlab)
-
-- 💻 Database:
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=blue)
 
 
 
