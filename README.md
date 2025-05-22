@@ -1,5 +1,4 @@
 <!-- 🎉 Welcome Animation -->
-<!-- 🎉 Welcome Animation -->
 <h2 align="center">Insert complete → <code>Welcome to the schema!</code></h2>
 
 <div align="center">
