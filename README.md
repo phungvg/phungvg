@@ -28,6 +28,21 @@
   </a>
 </p>
 
+> ABOUT ME
+```python
+class Victoria:
+    def __init__(self):
+        self.name = "Phung Vuong (Victoria)"
+        self.education = "University of Illinois Chicago 🏫"
+        self.major = "Mathematical Computer Science 📐💻"
+        self.hobbies = ["Swimming 🏊‍♀️", "Badminton 🏸", "Playing Poker 🃏"]
+
+    def current_location(self):
+        self.location = "Chicago, IL 🏙️"
+
+    def currently(self):
+        self.learning = "Exploring Deep Learning & Applied AI 🤖"
+```
 
 > SKILLS
 
@@ -44,6 +59,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-circle&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-circle)
 ![Neural Network](https://img.shields.io/badge/-Neural%20Networks-brightgreen?style=flat-circle)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blueviolet?style=flat-circle)
 
 - ⚙️ Dev Tools:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-circle&logo=django)
