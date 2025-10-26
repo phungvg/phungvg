@@ -57,9 +57,11 @@ class Victoria:
 
 - 🧠 Languages & Libraries:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-circle&logo=rstudio&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-circle&logo=mathworks)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-circle&logo=microsoft-excel&logoColor=white)
+
 
 - 💻 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=blue)
@@ -72,6 +74,10 @@ class Victoria:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-circle)
 ![Neural Network](https://img.shields.io/badge/-Neural%20Networks-brightgreen?style=flat-circle)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blueviolet?style=flat-circle)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-circle&logo=scikit-learn&logoColor=white)
+![Bagging](https://img.shields.io/badge/-Bagging-20B2AA?style=flat-circle)
+![Bootstrapping](https://img.shields.io/badge/-Bootstrapping-1E90FF?style=flat-circle)
+
 
 - ⚙️ Dev Tools:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-circle&logo=django)
