@@ -1,5 +1,5 @@
 <!-- WAVE TOP -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,20,24&fontColor=ffffff&text=hey%2C%20I%27m%20Victoria!%20%F0%9F%91%8B&fontSize=42&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8C%8A+come+on+in%2C+the+water%27s+warm&descSize=15&descAlignY=62&descColor=d0f0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,20,24&fontColor=ffffff&text=hey%2C%20I%27m%20Victoria!%20%F0%9F%91%8B&fontSize=42&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8C%8A+come+on+in%&descSize=15&descAlignY=62&descColor=d0f0ff" width="100%"/>
 
 <div align="center">
 
