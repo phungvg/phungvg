@@ -62,21 +62,72 @@ class Victoria:
 
 > **SKILLS**
 
-Programming Languages: Python, R, SAS, SQL, C++, MATLAB
+**Programming Languages**
 
-AI & LLM: LLM API Integration, Prompt Engineering, NLP, Transformer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-007CC3?style=for-the-badge&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0B3B60?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
 
-ML Frameworks: TensorFlow, Keras, SciPy, PyTorch, scikit-learn, XGBoost, KNN, NumPy, SMOTE
+**AI and LLM**
 
-Computer Vision: OpenCV, Hugging Face, PyMuPDF, pdfplumber, 3D volume rendering
+![LLM API Integration](https://img.shields.io/badge/LLM_API_Integration-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1F2937?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-7C3AED?style=for-the-badge&logoColor=white)
 
-Cloud: PostgreSQL, Microsoft Azure, Vercel, Render, AWS, Google Cloud, CI/CD with GitHub deployments
+**ML Frameworks**
 
-Deep Learning: CNN, U-Net, 2.5D architectures, data augmentation, data wrangling, data warping
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-0F766E?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-334155?style=for-the-badge&logoColor=white)
 
-Tools: Git, GitHub, GUI Development
+**Computer Vision**
 
-Testing and Validation: Model validation, QA GUI Development, Retrieval pipeline testing
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-7C2D12?style=for-the-badge&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-1E293B?style=for-the-badge&logoColor=white)
+![3D volume rendering](https://img.shields.io/badge/3D_Volume_Rendering-0EA5A5?style=for-the-badge&logoColor=white)
+
+**Cloud and Deployment**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0B1021)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CI/CD with GitHub deployments](https://img.shields.io/badge/CI%2FCD_GitHub_Deployments-181717?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Deep Learning**
+
+![CNN](https://img.shields.io/badge/CNN-1D4ED8?style=for-the-badge&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-9333EA?style=for-the-badge&logoColor=white)
+![2.5D architectures](https://img.shields.io/badge/2.5D_Architectures-0F766E?style=for-the-badge&logoColor=white)
+![data augmentation](https://img.shields.io/badge/Data_Augmentation-059669?style=for-the-badge&logoColor=white)
+![data wrangling](https://img.shields.io/badge/Data_Wrangling-0369A1?style=for-the-badge&logoColor=white)
+![data warping](https://img.shields.io/badge/Data_Warping-6D28D9?style=for-the-badge&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GUI Development](https://img.shields.io/badge/GUI_Development-0C4A6E?style=for-the-badge&logoColor=white)
+
+**Testing and Validation**
+
+![Model validation](https://img.shields.io/badge/Model_Validation-166534?style=for-the-badge&logoColor=white)
+![QA GUI Development](https://img.shields.io/badge/QA_GUI_Development-1E3A8A?style=for-the-badge&logoColor=white)
+![Retrieval pipeline testing](https://img.shields.io/badge/Retrieval_Pipeline_Testing-7C2D12?style=for-the-badge&logoColor=white)
 
 ---
 
