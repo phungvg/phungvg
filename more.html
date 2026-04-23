@@ -50,8 +50,15 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
 .social-pill:hover{color:var(--text);border-color:var(--accent);background:rgba(14,165,233,0.08);}
 .footer-note{text-align:center;margin-top:18px;font-size:12px;color:#2a5070;font-family:'JetBrains Mono',monospace;}
 .footer-note span{color:var(--teal);}
+.github-spotlight{position:fixed;right:28px;top:170px;z-index:4;width:min(280px,28vw);padding:16px;border-radius:14px;border:1px solid rgba(56,189,248,0.55);background:linear-gradient(165deg,rgba(8,15,30,0.94),rgba(5,34,58,0.9));box-shadow:0 8px 30px rgba(0,0,0,0.35),0 0 24px rgba(56,189,248,0.18);text-decoration:none;display:flex;flex-direction:column;gap:8px;}
+.github-spotlight .kicker{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1.2px;color:#7dd3fc;}
+.github-spotlight .title{font-size:20px;font-weight:900;color:#f0fbff;}
+.github-spotlight .desc{font-size:12px;line-height:1.5;color:#a9d8f3;}
+.github-spotlight .cta{margin-top:4px;align-self:flex-start;padding:6px 10px;border-radius:999px;border:1px solid rgba(125,211,252,0.45);font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;color:#cff4ff;background:rgba(2,132,199,0.18);}
+.github-spotlight:hover{transform:translateY(-2px);border-color:#7dd3fc;box-shadow:0 12px 36px rgba(0,0,0,0.42),0 0 30px rgba(56,189,248,0.28);}
 .browser,.chrome-bar,.tab-row,.url-bar,.socials-bar{position:relative;z-index:3;}
 .tab,.social-pill,.refresh-btn{pointer-events:auto;}
+@media(max-width:1100px){.github-spotlight{display:none;}}
 @media(max-width:600px){.more-grid{grid-template-columns:1fr;}.roles{font-size:14px;}}
 </style></head><body>
 <div class="ocean-bg"><div class="wave w1"></div><div class="wave w2"></div><div class="wave w3"></div></div>
@@ -59,6 +66,12 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
 <div class="wrapper">
   <h1>Victoria Vuong</h1>
   <div class="roles"><span>machine learning</span><span class="sep">|</span><span>deep learning</span><span class="sep">|</span><span>swimmer 🌊</span></div>
+  <a class="github-spotlight" href="https://github.com/phungvg/" target="_blank" rel="noopener noreferrer">
+    <div class="kicker">FEATURED GITHUB</div>
+    <div class="title">@phungvg</div>
+    <div class="desc">Explore projects, AI builds, and code samples recruiters can scan quickly.</div>
+    <div class="cta">open profile ↗</div>
+  </a>
   <div class="browser">
     <div class="chrome-bar">
       <div class="traffic-lights"><div class="tl red"></div><div class="tl yellow"></div><div class="tl green"></div></div>
