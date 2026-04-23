@@ -28,6 +28,9 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
 .tab{display:flex;align-items:center;gap:7px;padding:8px 16px;border-radius:8px 8px 0 0;font-size:13px;font-weight:600;white-space:nowrap;color:var(--muted);background:transparent;border:1px solid transparent;border-bottom:none;transition:all .2s;font-family:'Nunito',sans-serif;text-decoration:none;}
 .tab:hover{color:var(--text);background:var(--surface2);}
 .tab.active{color:var(--text);background:var(--surface);border-color:var(--border);border-bottom-color:var(--surface);position:relative;bottom:-1px;}
+.github-tab{color:#e5f7ff;background:linear-gradient(180deg,rgba(14,165,233,0.28),rgba(56,189,248,0.15));border-color:rgba(56,189,248,0.7);font-weight:800;box-shadow:0 0 0 1px rgba(56,189,248,0.2) inset,0 0 14px rgba(56,189,248,0.22);animation:githubPulse 1.8s ease-in-out infinite;}
+.github-tab:hover{color:#fff;background:linear-gradient(180deg,rgba(14,165,233,0.4),rgba(56,189,248,0.2));border-color:#38bdf8;box-shadow:0 0 0 1px rgba(56,189,248,0.35) inset,0 0 20px rgba(56,189,248,0.38);}
+@keyframes githubPulse{0%,100%{box-shadow:0 0 0 1px rgba(56,189,248,0.2) inset,0 0 12px rgba(56,189,248,0.2)}50%{box-shadow:0 0 0 1px rgba(56,189,248,0.38) inset,0 0 22px rgba(56,189,248,0.42)}}
 .tab .dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
 .url-bar{display:flex;align-items:center;gap:10px;background:#060e1a;border:1px solid var(--border);border-radius:8px;padding:6px 12px;margin:10px 0 0;font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--muted);}
 .url-text{flex:1;}.domain{color:var(--text);}
@@ -64,7 +67,7 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
         <a href="more.html" class="tab active"><div class="dot" style="background:#f472b6"></div>🌊 more</a>
         <a href="https://www.linkedin.com/in/phung-vuong/" target="_blank" rel="noopener noreferrer" class="tab"><div class="dot" style="background:#0077b5"></div>💼 linkedin ↗</a>
         <a href="mailto:pdvuon@gmail.com" class="tab"><div class="dot" style="background:#ea4335"></div>📬 gmail ↗</a>
-        <a href="https://github.com/phungvg/" target="_blank" rel="noopener noreferrer" class="tab"><div class="dot" style="background:#cbd5e1"></div>🐙 github ↗</a>
+        <a href="https://github.com/phungvg/" target="_blank" rel="noopener noreferrer" class="tab github-tab"><div class="dot" style="background:#38bdf8"></div>🐙 github ↗</a>
       </div>
       <div class="url-bar"><span style="color:#2dd4bf">🔒</span><span class="url-text">phungvg.github.io/<span class="domain">phungvg/more.html</span></span><button class="refresh-btn" onclick="location.reload()">⟳</button></div>
     </div>
