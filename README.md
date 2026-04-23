@@ -24,15 +24,13 @@
 
 ---
 
-<!--  BROWSER UI  -->
 <div align="center">
 
-<!-- tab bar rendered as image row -->
-![tab-about](https://img.shields.io/badge/🙋_about_me-━━━━━━━━━━━━━━-0CDAF7?style=flat-square&labelColor=0d1117)&nbsp;![tab-skills](https://img.shields.io/badge/🛠_skills-━━━━━━━━━━━━━━-1a2332?style=flat-square&labelColor=0d1117)&nbsp;![tab-linkedin](https://img.shields.io/badge/💼_linkedin-↗-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/phung-vuong/)&nbsp;[![tab-gmail](https://img.shields.io/badge/📬_gmail-↗-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pdvuon@gmail.com)
+### 👆 Click below to open my interactive profile!
 
-```
-🔒  github.com/victoria-vuong/README.md                                  ⟳
-```
+[![Open Interactive Profile](https://img.shields.io/badge/🌊_Open_Interactive_Profile-click_to_explore_tabs,_skills_&_more!-0CDAF7?style=for-the-badge&labelColor=0d1117)](https://phungvg.github.io/phungvg/profile.html)
+
+*browser UI · clickable tabs · ocean animations · skills · about me*
 
 </div>
 
@@ -85,7 +83,7 @@ class Victoria:
 ![Bagging](https://img.shields.io/badge/-Bagging-20B2AA?style=flat-circle)
 ![Bootstrapping](https://img.shields.io/badge/-Bootstrapping-1E90FF?style=flat-circle)
 
-☁️ **Cloud & Deployment** *(new!)*
+☁️ **Cloud & Deployment**
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-circle&logo=microsoft-azure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-circle&logo=supabase&logoColor=white)
