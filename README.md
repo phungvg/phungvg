@@ -19,6 +19,10 @@
 <a href="mailto:pdvuon@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
 </a>
+&nbsp;
+<a href="https://github.com/phungvg">
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -30,7 +34,7 @@
 
 [![Open Interactive Profile](https://img.shields.io/badge/🌊_Open_Interactive_Profile-click_to_explore_tabs,_skills_&_more!-0CDAF7?style=for-the-badge&labelColor=0d1117)](https://phungvg.github.io/phungvg/profile.html)
 
-*browser UI · clickable tabs · ocean animations · skills · about me*
+*browser UI · clickable tabs · ocean animations · skills · about me · github contact*
 
 </div>
 

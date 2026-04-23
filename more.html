@@ -4,8 +4,8 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 :root{--bg:#0a0f1a;--surface:#111827;--surface2:#1a2332;--border:#1e3a5f;--accent:#38bdf8;--accent2:#0ea5e9;--teal:#2dd4bf;--text:#e2f4ff;--muted:#7fb3d0;}
 body{font-family:'Nunito',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;overflow-x:hidden;}
-.ocean-bg{position:fixed;inset:0;z-index:0;overflow:hidden;background:linear-gradient(180deg,#060d1a 0%,#0a1628 40%,#0c2340 100%);}
-.wave{position:absolute;bottom:0;width:200%;height:180px;border-radius:50%;opacity:0.15;}
+.ocean-bg{position:fixed;inset:0;z-index:0;overflow:hidden;background:linear-gradient(180deg,#060d1a 0%,#0a1628 40%,#0c2340 100%);pointer-events:none;}
+.wave{position:absolute;bottom:0;width:200%;height:180px;border-radius:50%;opacity:0.15;pointer-events:none;}
 .w1{background:#0369a1;animation:wave 8s linear infinite;}
 .w2{background:var(--accent);animation:wave 11s linear infinite reverse;bottom:20px;opacity:0.08;}
 .w3{background:var(--teal);animation:wave 14s linear infinite;bottom:40px;opacity:0.06;}
@@ -13,7 +13,7 @@ body{font-family:'Nunito',sans-serif;background:var(--bg);color:var(--text);min-
 .particles{position:fixed;inset:0;z-index:0;pointer-events:none;}
 .p{position:absolute;width:2px;height:2px;background:var(--accent);border-radius:50%;animation:float var(--d) ease-in-out infinite var(--delay);opacity:0.4;}
 @keyframes float{0%,100%{transform:translateY(0);opacity:0.2}50%{transform:translateY(-30px) translateX(10px);opacity:0.6}}
-.wrapper{position:relative;z-index:1;max-width:860px;margin:0 auto;padding:32px 24px 60px;}
+.wrapper{position:relative;z-index:2;max-width:860px;margin:0 auto;padding:32px 24px 60px;}
 h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background:linear-gradient(135deg,#fff 0%,var(--accent) 60%,var(--teal) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;animation:shimmer 4s ease-in-out infinite;background-size:200% auto;text-align:center;}
 @keyframes shimmer{0%,100%{background-position:0% 50%}50%{background-position:100% 50%}}
 .roles{display:flex;justify-content:center;align-items:center;gap:20px;font-family:'JetBrains Mono',monospace;font-size:18px;font-weight:600;color:var(--muted);margin:12px 0 28px;flex-wrap:wrap;}
@@ -46,6 +46,8 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
 .social-pill:hover{color:var(--text);border-color:var(--accent);background:rgba(14,165,233,0.08);}
 .footer-note{text-align:center;margin-top:18px;font-size:12px;color:#2a5070;font-family:'JetBrains Mono',monospace;}
 .footer-note span{color:var(--teal);}
+.browser,.chrome-bar,.tab-row,.url-bar,.socials-bar{position:relative;z-index:3;}
+.tab,.social-pill,.refresh-btn{pointer-events:auto;}
 @media(max-width:600px){.more-grid{grid-template-columns:1fr;}.roles{font-size:14px;}}
 </style></head><body>
 <div class="ocean-bg"><div class="wave w1"></div><div class="wave w2"></div><div class="wave w3"></div></div>
@@ -60,8 +62,9 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
         <a href="profile.html" class="tab"><div class="dot" style="background:#38bdf8"></div>🙋 about me</a>
         <a href="skills.html" class="tab"><div class="dot" style="background:#2dd4bf"></div>🛠 skills</a>
         <a href="more.html" class="tab active"><div class="dot" style="background:#f472b6"></div>🌊 more</a>
-        <a href="https://www.linkedin.com/in/phung-vuong/" target="_blank" class="tab"><div class="dot" style="background:#0077b5"></div>💼 linkedin ↗</a>
+        <a href="https://www.linkedin.com/in/phung-vuong/" target="_blank" rel="noopener noreferrer" class="tab"><div class="dot" style="background:#0077b5"></div>💼 linkedin ↗</a>
         <a href="mailto:pdvuon@gmail.com" class="tab"><div class="dot" style="background:#ea4335"></div>📬 gmail ↗</a>
+        <a href="https://github.com/phungvg" target="_blank" rel="noopener noreferrer" class="tab"><div class="dot" style="background:#cbd5e1"></div>🐙 github ↗</a>
       </div>
       <div class="url-bar"><span style="color:#2dd4bf">🔒</span><span class="url-text">phungvg.github.io/<span class="domain">phungvg/more.html</span></span><button class="refresh-btn" onclick="location.reload()">⟳</button></div>
     </div>
@@ -75,8 +78,9 @@ h1{font-size:clamp(52px,9vw,88px);font-weight:900;letter-spacing:-2px;background
       </div>
     </div>
     <div class="socials-bar">
-      <a href="https://www.linkedin.com/in/phung-vuong/" target="_blank" class="social-pill">💼 linkedin</a>
+      <a href="https://www.linkedin.com/in/phung-vuong/" target="_blank" rel="noopener noreferrer" class="social-pill">💼 linkedin</a>
       <a href="mailto:pdvuon@gmail.com" class="social-pill">📬 pdvuon@gmail.com</a>
+      <a href="https://github.com/phungvg" target="_blank" rel="noopener noreferrer" class="social-pill">🐙 github</a>
       <span class="social-pill">📍 chicago, il</span>
       <span class="social-pill">🎓 uic · math cs</span>
     </div>
