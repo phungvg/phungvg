@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://github.com/phungvg">
+<a href="https://github.com/phungvg/">
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
 
@@ -62,50 +62,21 @@ class Victoria:
 
 > **SKILLS**
 
-🧠 **Languages & Libraries**
+Programming Languages: Python, R, SAS, SQL, C++, MATLAB
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-circle&logo=rstudio&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-circle&logo=mathworks)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-circle&logo=microsoft-excel&logoColor=white)
+AI & LLM: LLM API Integration, Prompt Engineering, NLP, Transformer
 
-💻 **Database**
+ML Frameworks: TensorFlow, Keras, SciPy, PyTorch, scikit-learn, XGBoost, KNN, NumPy, SMOTE
 
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-circle&logo=mysql&logoColor=blue)
+Computer Vision: OpenCV, Hugging Face, PyMuPDF, pdfplumber, 3D volume rendering
 
-🧪 **ML & Data Science**
+Cloud: PostgreSQL, Microsoft Azure, Vercel, Render, AWS, Google Cloud, CI/CD with GitHub deployments
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-circle&logo=Tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?style=flat-circle&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-circle&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-circle&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-circle)
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-brightgreen?style=flat-circle)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blueviolet?style=flat-circle)
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat-circle&logo=scikit-learn&logoColor=white)
-![Bagging](https://img.shields.io/badge/-Bagging-20B2AA?style=flat-circle)
-![Bootstrapping](https://img.shields.io/badge/-Bootstrapping-1E90FF?style=flat-circle)
+Deep Learning: CNN, U-Net, 2.5D architectures, data augmentation, data wrangling, data warping
 
-☁️ **Cloud & Deployment**
+Tools: Git, GitHub, GUI Development
 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-circle&logo=microsoft-azure&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-circle&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-circle&logo=docker&logoColor=white)
-![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-F43F5E?style=flat-circle)
-
-⚙️ **Dev Tools**
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-circle&logo=django)
-![API](https://img.shields.io/badge/-API-blue?style=flat-circle)
-![ITK-Snap](https://img.shields.io/badge/-ITK--Snap-lightgrey?style=flat-circle)
-
-🛠️ **Code & Version Control**
-
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-circle&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-circle&logo=gitlab)
+Testing and Validation: Model validation, QA GUI Development, Retrieval pipeline testing
 
 ---
 
